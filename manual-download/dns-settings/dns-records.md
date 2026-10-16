@@ -3,7 +3,7 @@
 Note shown by Squarespace: *"You're using custom nameservers. Your DNS records are managed with your third-party nameserver provider. To activate the DNS records below, switch to Squarespace nameservers."*
 So these are the records held in Squarespace; the live records are whatever the external nameserver provider has.
 
-Screenshots: `squarespace-dns-1-defaults.png`, `squarespace-dns-2-domain-connect-and-custom.png`
+Screenshots: `squarespace-dns-1-defaults.png`, `squarespace-dns-2-domain-connect-and-custom.png`; full page saved as `Squarespace Domains - kitchenwhiz.in - DNS Settings.pdf`
 
 ## Squarespace Defaults
 

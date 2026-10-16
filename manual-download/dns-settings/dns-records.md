@@ -5,6 +5,16 @@ So these are the records held in Squarespace; the live records are whatever the 
 
 Screenshots: `squarespace-dns-1-defaults.png`, `squarespace-dns-2-domain-connect-and-custom.png`; full page saved as `Squarespace Domains - kitchenwhiz.in - DNS Settings.pdf`
 
+## Domain nameservers (where the live DNS is managed)
+
+| Nameserver       |
+|------------------|
+| ns8.wixdns.net   |
+| ns9.wixdns.net   |
+
+The domain points to **Wix** nameservers, so the live DNS records for kitchenwhiz.in (website, email, subdomains) are managed in the Wix account, not in Squarespace. The Squarespace records below are inactive while these nameservers are in use.
+Screenshot: `squarespace-dns-3-nameservers.png`
+
 ## Squarespace Defaults
 
 | Type  | Name | Priority | TTL   | Data                     |

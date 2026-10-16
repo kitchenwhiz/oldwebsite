@@ -9,3 +9,4 @@ An archived copy of the previous www.kitchenwhiz.in website: HTML pages, images 
 - PDF printouts of each site page: `manual-download/PDF Downloaded/`
 - Saved copies of each site page (open in a browser): `manual-download/HTMLs Downloaded/`
 - Image name mapping (Squarespace link → saved file in `Images/`): `manual-download/image-name-mapping.csv`, with the original download commands in `manual-download/image-download-commands.txt`
+- Squarespace DNS settings (screenshots and typed records): `manual-download/dns-settings/`

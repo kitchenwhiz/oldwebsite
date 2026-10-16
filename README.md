@@ -4,3 +4,4 @@ An archived copy of the previous www.kitchenwhiz.in website: HTML pages, images 
 
 - Home page: `index.html`
 - Images and catalogue PDFs: `s/`
+- Original photos and graphics downloaded from the site: `Images/`
